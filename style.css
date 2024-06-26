@@ -251,3 +251,20 @@ z-index: 2;
         bottom: 50px;
     }
 }
+
+@media screen and (max-width:1200px){
+
+
+    body{
+        background-color: #000;
+        color:#eeee;
+        font-size: 8px;
+        }
+
+
+    .container .thumb{
+        display:none;
+    }
+
+
+}
